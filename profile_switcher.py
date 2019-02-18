@@ -1,14 +1,10 @@
 #!/usr/bin/env python
 
-<<<<<<< HEAD
 '''
 Horribly overblown profile switcher for manually managing multiple AWS profiles.
 Better suited for testing mutli-org auth tooling (think Terraform providers) 
 than used as daily-driver for user profile mgmt (think awsume).
 '''
-=======
-# Horribly overblown profile switcher for manually managing multiple AWS profiles
->>>>>>> 69ed7ecf76032a8c5f3d7f3cd81f3d9a06f539b6
 
 import argparse
 import glob
